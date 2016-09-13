@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_libro" value="name:nro;datatype:int,name:fecha;datatype:date,name:autor;datatype:string,name:titulo;datatype:blob,name:id_lug;datatype:int,name:id_edi;datatype:int,name:anio;datatype:year,name:edicion;datatype:string,name:volumen;datatype:string,name:paginas;datatype:int,name:compra;datatype:int,name:precio;datatype:int,name:donac;datatype:int,name:dl;datatype:int,name:id_pro;datatype:int,name:observacion;datatype:blob" />
+</info>

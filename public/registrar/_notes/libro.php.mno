@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_lugar" value="name:id;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_editorial" value="name:id;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_procedencia" value="name:id;datatype:int,name:nombre;datatype:string" />
+</info>
